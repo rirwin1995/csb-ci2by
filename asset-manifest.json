@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "https://rirwin1995.github.io/csb-ci2by/static/css/main.a10b1399.chunk.css",
-    "main.js": "https://rirwin1995.github.io/csb-ci2by/static/js/main.901852c1.chunk.js",
-    "main.js.map": "https://rirwin1995.github.io/csb-ci2by/static/js/main.901852c1.chunk.js.map",
+    "main.css": "https://rirwin1995.github.io/csb-ci2by/static/css/main.623c34b7.chunk.css",
+    "main.js": "https://rirwin1995.github.io/csb-ci2by/static/js/main.80144dd2.chunk.js",
+    "main.js.map": "https://rirwin1995.github.io/csb-ci2by/static/js/main.80144dd2.chunk.js.map",
     "runtime-main.js": "https://rirwin1995.github.io/csb-ci2by/static/js/runtime-main.cba8459a.js",
     "runtime-main.js.map": "https://rirwin1995.github.io/csb-ci2by/static/js/runtime-main.cba8459a.js.map",
     "static/css/2.cbedb215.chunk.css": "https://rirwin1995.github.io/csb-ci2by/static/css/2.cbedb215.chunk.css",
-    "static/js/2.933095f0.chunk.js": "https://rirwin1995.github.io/csb-ci2by/static/js/2.933095f0.chunk.js",
-    "static/js/2.933095f0.chunk.js.map": "https://rirwin1995.github.io/csb-ci2by/static/js/2.933095f0.chunk.js.map",
+    "static/js/2.2526899d.chunk.js": "https://rirwin1995.github.io/csb-ci2by/static/js/2.2526899d.chunk.js",
+    "static/js/2.2526899d.chunk.js.map": "https://rirwin1995.github.io/csb-ci2by/static/js/2.2526899d.chunk.js.map",
     "index.html": "https://rirwin1995.github.io/csb-ci2by/index.html",
     "static/css/2.cbedb215.chunk.css.map": "https://rirwin1995.github.io/csb-ci2by/static/css/2.cbedb215.chunk.css.map",
-    "static/css/main.a10b1399.chunk.css.map": "https://rirwin1995.github.io/csb-ci2by/static/css/main.a10b1399.chunk.css.map",
-    "static/js/2.933095f0.chunk.js.LICENSE.txt": "https://rirwin1995.github.io/csb-ci2by/static/js/2.933095f0.chunk.js.LICENSE.txt"
+    "static/css/main.623c34b7.chunk.css.map": "https://rirwin1995.github.io/csb-ci2by/static/css/main.623c34b7.chunk.css.map",
+    "static/js/2.2526899d.chunk.js.LICENSE.txt": "https://rirwin1995.github.io/csb-ci2by/static/js/2.2526899d.chunk.js.LICENSE.txt",
+    "static/media/logo.1510ba73.png": "https://rirwin1995.github.io/csb-ci2by/static/media/logo.1510ba73.png"
   },
   "entrypoints": [
     "static/js/runtime-main.cba8459a.js",
     "static/css/2.cbedb215.chunk.css",
-    "static/js/2.933095f0.chunk.js",
-    "static/css/main.a10b1399.chunk.css",
-    "static/js/main.901852c1.chunk.js"
+    "static/js/2.2526899d.chunk.js",
+    "static/css/main.623c34b7.chunk.css",
+    "static/js/main.80144dd2.chunk.js"
   ]
 }
